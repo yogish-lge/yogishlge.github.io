@@ -4,6 +4,7 @@
 
 //Discussing with sahoo for release notes
 //Logs added as per disscussion
+// Feature added label
 #include <xercesc/parsers/XercesDOMParser.hpp>
 #include <xercesc/dom/DOM.hpp>
 #include <xercesc/util/PlatformUtils.hpp>
