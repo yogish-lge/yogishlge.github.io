@@ -1,3 +1,6 @@
+//Copyright 2025 This is for testing the data of genrating the release notes
+//The release notes are to be generated & posted for the testing purpose.
+
 #include <xercesc/parsers/XercesDOMParser.hpp>
 #include <xercesc/dom/DOM.hpp>
 #include <xercesc/util/PlatformUtils.hpp>
