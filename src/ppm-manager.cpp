@@ -4,7 +4,7 @@
 #include <iostream>
 
 XERCES_CPP_NAMESPACE_USE
-
+//Test for the change -- Yogish 1
 int main(int argc, char* argv[]) {
     try {
         XMLPlatformUtils::Initialize(); // Initialize Xerces-C++
@@ -70,7 +70,7 @@ int main(int argc, char* argv[]) {
         XMLString::release(&message);
         return 1;
     }
-
+   // Test of the Changes in : -- Yogish 2
     delete parser; // Clean up the parser
     XMLPlatformUtils::Terminate(); // Terminate Xerces-C++
     return 0;
