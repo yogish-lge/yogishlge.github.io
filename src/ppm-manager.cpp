@@ -9,7 +9,7 @@
 #include <xercesc/dom/DOM.hpp>
 #include <xercesc/util/PlatformUtils.hpp>
 #include <iostream>
-
+//****************************************//
 XERCES_CPP_NAMESPACE_USE
 //Test for the change -- Yogish 1
 int main(int argc, char* argv[]) {
