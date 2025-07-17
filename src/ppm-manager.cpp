@@ -3,6 +3,7 @@
 
 
 //Discussing with sahoo for release notes
+//Logs added as per disscussion
 #include <xercesc/parsers/XercesDOMParser.hpp>
 #include <xercesc/dom/DOM.hpp>
 #include <xercesc/util/PlatformUtils.hpp>
